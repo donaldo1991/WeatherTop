@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bdf6cec-82da-4432-84dc-91caeaddaa17" name="Changes" comment="" />
+    <list default="true" id="8bdf6cec-82da-4432-84dc-91caeaddaa17" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/app/Bootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/Bootstrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/conf/application.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/dependencies.yml" beforeDir="false" afterPath="$PROJECT_DIR$/conf/dependencies.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/Bootstrap" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/Bootstrap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weatherTop_Donal_Murphy_20100051.iws" beforeDir="false" afterPath="$PROJECT_DIR$/weatherTop_Donal_Murphy_20100051.iws" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +20,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -62,6 +71,9 @@
       <workItem from="1653507607716" duration="8865000" />
       <workItem from="1653654195237" duration="3126000" />
       <workItem from="1653657551825" duration="1974000" />
+      <workItem from="1653664209536" duration="1035000" />
+      <workItem from="1653666284496" duration="433000" />
+      <workItem from="1653666877458" duration="392000" />
     </task>
     <servers />
   </component>
